@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.AppCompat.Light.NoActionBar">
+
+            <item name="android:textSize">24sp</item>
+            <item name="android:textColor">@color/green</item>
+
+            <item name="android:gravity">center</item>
+
+
+    </style>
+</resources>
